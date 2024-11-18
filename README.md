@@ -1,20 +1,20 @@
-Quiz App
-Goal: Create a simple, interactive quiz app.
+1. Agency Portfolio Website
+Goal: Build a responsive portfolio website for a fictional professional.
 Topics Covered:
 
-HTML: Forms and inputs.
-CSS: Custom buttons, hover effects.
-JavaScript: Event listeners, form validation, DOM manipulation.
+HTML: Semantic structure (headers, sections, articles).
+CSS: Responsive design, grid, and flexbox.
+JavaScript: Navigation toggle, dynamic project gallery.
 Instructions:
 
 HTML Structure:
-Include a start button, a question area, multiple-choice options (radio buttons), and a submit button.
+Create sections for About, Projects, Skills, and Contact.
+Use semantic tags like <header>, <main>, <footer>.
 CSS Styling:
-Design a clean and colorful interface for the quiz area.
-Style buttons with hover effects.
+Apply flexbox/grid to arrange the Projects section.
+Use media queries to make the layout responsive for mobile and desktop.
 JavaScript Functionality:
-Use arrays or objects to store questions and answers.
-Display questions one by one. Track correct answers and show results at the end.
-Reset the quiz when completed.
+Add a toggle button for a mobile navigation menu.
+Dynamically generate project cards using an array of objects (e.g., project name, description, and image).
 Bonus:
-Add a timer for each question and deduct points for wrong answers.
+Include smooth scrolling between sections using scrollIntoView.
